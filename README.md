@@ -1,6 +1,6 @@
 # JITTECHSECTION1
 JITTECHSECTION1  is  about  Gdollar, JSTAR, JSLASH, CHDOLLAR  which  are  invented  in RGX  Technology.
-
+and  CDollar  invented  in C/c++.
 
 JITTECHSECTION  technology  and  Advantages
 ===========================================
