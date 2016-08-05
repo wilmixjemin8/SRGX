@@ -5,11 +5,13 @@
 SRGX  is  about  Gdollar, CHDOLLAR  which  are  invented  in RGX  Technology.
 and  CDollar  is   invented  in C/c++.
 
+ABBREVATION SRGX is
+===================
+
 S -> Standard
 
-R  -> Cloud technology
-G -> GRoup
-X -> Advanced
+R -> Cloud technology G -> GRoup X -> Advanced
+
 
 SRGX  technology  and  Advantages
 ===========================================
