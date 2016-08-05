@@ -2,7 +2,7 @@
 ========
 
 
-SRGX  is  about CDollar, Gdollar, CHDOLLAR  which  are  invented  in RGX  Technology.
+SRGX  is  about  Gdollar, CHDOLLAR  which  are  invented  in RGX  Technology.
 and  CDollar  is   invented  in C/c++.
 
 SRGX  technology  and  Advantages
