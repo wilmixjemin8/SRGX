@@ -2,7 +2,7 @@
 ========
 
 
-SRGX  is  about  Gdollar, CHDOLLAR  which  are  invented  in RGX  Technology.
+SRGX  is  about  CWEB, CHWEB  which  are  invented  in RGX  Technology.
 
 
 ABBREVATION SRGX is
@@ -19,14 +19,14 @@ SRGX  technology  and  Advantages
 
 
 
-GDollar  for Compiler  Design  and  datastructures.
+CWEB  for Compiler  Design  and  datastructures.
 
 
 
 
-CHDollar  for  cloud  computing  and  cloud  OS  design
+CHWEB  for  cloud  computing  and  cloud  OS  design
 
-and  inventing  new  cloud  based  java  technologies..
+and  inventing  new  cloud  based  JAS  technologies..
 
 
 
