@@ -2,7 +2,7 @@
 ========
 
 
-SRGX  is  about  CWEB, CHWEB  which  are  invented  in RGX  Technology.
+SRGX Section is  about  CWEB, CHWEB  which  are  invented  in RGX  P.L.
 
 
 ABBREVATION SRGX is
@@ -10,10 +10,10 @@ ABBREVATION SRGX is
 
 S -> Standard
 
-R -> Cloud technology G -> GRoup X -> Advanced
+R -> Remote  webapplication G -> GRoup X -> Advanced
 
 
-SRGX  technology  and  Advantages
+SRGX  Programming Languages and  Advantages
 ===========================================
 
 
@@ -24,9 +24,9 @@ CWEB  for Compiler  Design  and  datastructures.
 
 
 
-CHWEB  for  cloud  computing  and  cloud  OS  design
+CHWEB  for  Remote  webapplication and  OS  design
 
-and  inventing  new  cloud  based  JAS  technologies..
+and  inventing  new  remote   based  JAS P.L..
 
 
 
