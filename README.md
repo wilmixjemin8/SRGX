@@ -4,7 +4,7 @@
 
 
 SRGX Section contains  10  Programming Languages  they  are  CDollar,Gdollar ,CH$  Programming Language ,  RGX Programming
-Language,JAVA1.0 Programming Language ,Jdk1.0 Programming Language,NSLASHProgramming Language,CSLASH Programming Language,CWP Programming Language,and H@ Programming Languages
+Language,JAVA1.0 Programming Language ,Jdk1.0 Programming Language,NSLASHProgramming Language,CSLASH Programming Language,CWP Programming Language, JSLASH Programming Language and H@ Programming Languages
 
 
 ABBREVATION SRGX is
@@ -41,6 +41,7 @@ j) CWP Programming Language
 
 k) H@ Programming Language
 
+l) JSLASH Programming Language
 
 ABBREVATION SRGX is
 ===================
@@ -56,22 +57,26 @@ SRGX  Programming Languages
 
 a) CDollar Programming  Language
 
-b)  CDollar Programming  Language
+b) CDollar Programming  Language
 
 c) CHDollar Programming  Language
 
 d) JSTAR Programming  Language
 
-e)  RGX  Programming  Language
+e) RGX  Programming  Language
 
 f) JAVA1.0 Programming Language 
 
 g) Jdk1.0 Programming Language
 
-h) NSLASHProgramming Language
+h) NSLASH Programming Language
 
 i) CSLASH Programming Language
 
 j) CWP Programming Language
 
 k) H@ Programming Language
+
+l) JSLASH Programming Language
+
+(generate  a   compiler   with  in  one  minute  as  meneioned  in  Gdollar)
