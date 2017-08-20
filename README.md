@@ -2,7 +2,8 @@
 ========
 
 
-SRGX Section is  about  CWEB, CHWEB  which  are  invented  in RGX  P.L.
+SRGX Section contains  four  Programming Languages  they  are  CDollar,Gdollar ,CH$  Programming Languages and  RGX Programming
+Language.
 
 
 ABBREVATION SRGX is
@@ -13,23 +14,16 @@ S -> Standard
 R -> Remote  webapplication G -> GRoup X -> Advanced
 
 
-SRGX  Programming Languages and  Advantages
-===========================================
+SRGX  Programming Languages 
+=============================
 
 
+a) CDollar Programming  Language
 
+b)  CDollar Programming  Language
 
-CWEB  for Compiler  Design  and  datastructures.
+c) CHDollar Programming  Language
 
+d) JSTAR Programming  Language
 
-
-
-CHWEB  for  Remote  webapplication and  OS  design
-
-and  inventing  new  remote   based  JAS P.L..
-
-
-
-
-
-
+e)  RGX  Programming  Language
