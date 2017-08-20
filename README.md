@@ -23,7 +23,7 @@ SRGX 10 Programming Languages
 
 a) CDollar Programming  Language
 
-b)  CDollar Programming  Language
+b) GDollar Programming  Language
 
 c) CHDollar Programming  Language
 
