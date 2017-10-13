@@ -17,10 +17,10 @@ S -> Standard
 R -> Remote  webapplication G -> GRoup X -> Advanced
 
 
-SRGX 9 Programming Languages 
+SRGX 8 Programming Languages 
 =============================
 
-a) CSLASH  Programming  Language
+a) CSHELL  Programming  Language
 
 b)  RGX  Programming  Language
 
@@ -50,7 +50,7 @@ R -> Remote  webapplication G -> GRoup X -> Advanced
 SRGX 9 Programming Languages 
 =============================
 
-a) CSLASH  Programming  Language
+a) CSHELL Programming  Language
 
 b)  RGX  Programming  Language
 
