@@ -68,4 +68,4 @@ h) H@ Programming Language
 
 i) JSLASH Programming Language
 
-(generate  a   compiler   with  in  one  minute  as  mentioned  in  Gdollar Programming  Language)
+(generate  a   compiler   with  in  one  minute  )
